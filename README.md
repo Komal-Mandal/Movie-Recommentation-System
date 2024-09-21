@@ -1,6 +1,7 @@
 Movie Recommentation System By Using Machine Learning
 This repository contains the implementation of a Movie Recommendation System using Machine Learning techniques. The system recommends movies based on user preferences using various recommendation algorithms.
 Acknowledgements
+
 1.MovieLens: For providing the comprehensive and widely-used dataset, which is essential for building recommendation systems.
 
 2.scikit-learn and Surprise Libraries: For offering easy-to-use machine learning tools and collaborative filtering algorithms that formed the backbone of this project.
