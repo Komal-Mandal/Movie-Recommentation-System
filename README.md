@@ -10,7 +10,10 @@ This repository contains the implementation of a Movie Recommendation System usi
 2.scikit-learn and Surprise Libraries: For offering easy-to-use machine learning tools and collaborative filtering algorithms that formed the backbone of this project.
 3.Stack Overflow and the developer community: For sharing insights, tutorials, and troubleshooting advice during development.
 4.Kaggle Notebooks: For inspiration and guidance from various public notebooks and community contributions in the field of recommendation systems.
-5.OpenAI’s GPT: For assisting in generating insightful responses and clarifying concepts during the project’s development.# features
+5.OpenAI’s GPT: For assisting in generating insightful responses and clarifying concepts during the project’s development.
+
+
+# features
 
 The Movie Recommendation System offers the following key features:
 
